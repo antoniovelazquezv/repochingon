@@ -1,3 +1,1 @@
-Hola mundo
-
-Otro commit
+Este es el documento en donde se va a basar toda la estructura.
